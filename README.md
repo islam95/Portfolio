@@ -1,3 +1,3 @@
 # Portfolio
 
-My first portfolio built at university
+My first portfolio built at the university.
