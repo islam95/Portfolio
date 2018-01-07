@@ -12,7 +12,7 @@
   $email=addslashes($_POST['email']);
   $comments=addslashes($_POST['comments']);
 
-  $toemail = "islam89uk@gmail.com";
+  $toemail = "islam@gmail.com";
   $subject = "from my website";
 
   $headers = "MIME-Version: 1.0\n"
